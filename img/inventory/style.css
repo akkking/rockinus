@@ -1,0 +1,70 @@
+div.pagination {
+	padding: 3px;
+	margin: 3px;
+}
+
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #AAAADD;
+	text-decoration: none; /* no underline */
+	color: #000099;
+}
+div.pagination a:hover, div.pagination a:active {
+	border: 1px solid #000099;
+	color: #000;
+}
+div.pagination span.current {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #000099;
+	font-weight: bold;
+	background-color: #000099;
+	color: #FFF;
+}
+
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #EEE;	
+	color: #DDD;
+}
+	
+A:LINK    {Color: White; Text-Decoration: none}
+A:VISITED {Color: White; Text-Decoration: none}
+A:HOVER   {Color: #EEEEEE; }
+A.one:link {color: black;}
+A.one:visited {color: black;}
+A.one:hover {color: #333333;text-decoration:underline}
+A.two.link {color: red;}
+A.two:visited {color: black;}
+A.two:hover {color: #333333;}
+input.btn { color:#050;   font: bold 84%'trebuchet ms',helvetica,sans-serif;   background-color: #EEEEEE; padding-bottom:3px; padding-top:2px}  
+input.box { border-style: dotted; border-width: 0px; height:20px; border: #000000 solid 1px; border-color: #CCCCCC; font-family: helvetica, arial, sans serif;padding-left: 0px; background-color: #FFFFFF; }
+.over { border-style: solid; border-width: 0px; border-bottom: #000000 dotted 1; border-color: black;font-family: helvetica, arial, sans serif;padding-left: 0px; background-color: #fed; }
+.out { border-style: solid; border-width: 0px; border-bottom: #000000 dotted 1; border-color: black;font-family: helvetica, arial, sans serif;padding-left: 0px; background-color: #FFFFFF; }
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url();
+}
+body,td,th {
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.STYLE6 {color: #000000}
+.STYLE7 {color: #CC6633}
+.STYLE9 {color: #339933}
+.STYLE11 {color: #000000; font-size: 13px; }
+
+textarea#styled {        
+width: 400px;        
+height: 120px;        
+border: 1px solid #CCCCCC;        
+padding: 5px;        
+font-family: Tahoma, sans-serif;        
+background-image: url(bg.gif);        
+background-position: bottom right;        
+background-repeat: no-repeat;
+}

@@ -1,0 +1,12 @@
+NYNYU	New York University	New York City	30	3000.00	GOOD	Manhattan	2011-12-30
+NYCOLUMBIA	Columbia University	New York City	20	2000.00	GOOD	Manhattan	2011-12-30
+NYPOLY	Polytechnic Institute of New York University	New York City	130	1200.00	GOOD	Brooklyn	2011-12-30
+NYPACE	Pace University	New York City	115	3000.00	GOOD	Manhattan	2011-12-30
+NYLIU	Long Island University	New York City	150	3000.00	GOOD	Brooklyn	2011-12-30
+NYBRKLYNCLG	Brooklyn College	New York City	200	3000	GOOD	Brooklyn	2011-12-30
+NYYESHIVA	Yeshiva University	New York City	65	3000	GOOD	Brooklyn	2011-12-30
+NYCUNY	City College of New York	New York City	135	3000	GOOD	Manhattan	2011-12-30
+NYTNS	The New School	New York City	105	3000	GOOD	Manhattan	2011-12-30
+NYNYIT	New York Institute of Technology	New York City	220	3000	Average	Manhattan	2011-12-30
+NYBINGHAMTON	Binghamton University	New York State	98	4000	Good	Binghamton	2011-12-30
+Other	Other school	New York State	98	4000	Good	New York City	2011-12-30

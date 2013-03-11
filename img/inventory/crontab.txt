@@ -1,0 +1,2 @@
+MAILTO=""
+* */6 * * * overdueCheck.php

@@ -1,0 +1,558 @@
+CS6133	Computer Architecture I	ECS	Master	NYPOLY	Hello World.	Robert Flyns	2012-01-12
+CS6133	Computer Architecture I	ECS	Master	NYPOLY	Hello World.	Lawrence Muller	2012-01-12
+CS6133	Computer Architecture I	ECS	Master	NYPOLY	Hello World.	Fred Winter	2012-01-12
+CS6143	Computer Architecture II	ECS	Master	NYUPOLY	Hello World.	Haldun Hadimioglu	2012-01-12
+CS6233	Introduction to Operating Systems  I	ECS	Master	NYPOLY	Hello World.	Husrev Sencar	2012-01-12
+CS6233	Introduction to Operating Systems  I	ECS	Master	NYPOLY	Hello World.	Edward Lancevich	2012-01-12
+CS6243	Operating Systems II 	ECS	Master	NYPOLY	Hello World.	XXXXX	2012-01-12
+CS6253	Distributed Operating Systems 	ECS	Master	NYPOLY	Hello World.	XXXXX	2012-01-12
+CS6843	Computer Networking 	ECS	Master	NYPOLY	Hello World.	Fred Strauss	2012-01-12
+CS6843	Computer Networking 	ECS	Master	NYPOLY	Hello World.	Yong Liu	2012-01-12
+CS6803	Info-Sys Security Engineering & Management	ECS	Master	NYPOLY	Hello World.	William Hery	2012-01-12
+CS6813	Information Security and Privacy 	ECS	Master	NYPOLY	Hello World.	Husrev Sencar	2012-01-12
+CS6823	Network Security	ECS	Master	NYPOLY	Hello World.	Keith OBrien	2012-01-12
+CS6003	Foundations of Computer Science	ECS	Master	NYPOLY	123	Joseph Vaisman	2012-01-12
+CS6033	Design and Analysis of Algorithms I	ECS	Master	NYPOLY	123	Robert Flynn	2012-01-12
+CS6043	Design and Analysis of Algorithms II	ECS	Master	NYPOLY	123	Yi-jen Chiang	2012-01-12
+CS6753	Theory of Computation	ECS	Master	NYPOLY	123	Joseph Vaisman	2012-01-12
+CS6703	Computational Geometry	ECS	Master	NYPOLY	123	Boris Aronov	2012-01-12
+CS6063	Software Engineering I	ECS	Master	NYPOLY	123	Stuart Steele	2012-01-12
+CS6073	Software Engineering II	ECS	Master	NYPOLY	123	Stuart Steele	2012-01-12
+CS6073	Software Engineering II	ECS	Master	NYPOLY	123	Martin Shooman	2012-01-12
+CS6083	Principles of Database Systems	ECS	Master	NYPOLY	123	Torsten Suel	2012-01-12
+CS6093	Principles of Database Systems	ECS	Master	NYPOLY	123	Juliana Freire	2012-01-12
+CS6373	Programming Languages	ECS	Master	NYPOLY	123	Daniel Katz	2012-01-12
+CS6373	Programming Languages	ECS	Master	NYPOLY	123	Lawrence Muller	2012-01-12
+CS6413	Compiler Design and Construction	ECS	Master	NYPOLY	123	Robert Siegfried	2012-01-12
+CS6533	Interactive Computer Graphics	ECS	Master	NYPOLY	123	Yi-jen Chiang	2012-01-12
+CS6573	Penetration Testing and Vulnerability Analysis	ECS	Master	NYPOLY	123	Daniel Guido	2012-01-12
+CS6613	Artificial Intelligence I	ECS	Master	NYPOLY	123	Edward Wong	2012-01-12
+CS6673	Neural Network Computing	ECS	Master	NYPOLY	123	Kok-Ming Leung	2012-01-12
+CS9163	Application Security	ECS	Master	NYPOLY	123	Daniel Guido	2012-01-12
+CS6903	Modern Cryptography	ECS	Master	NYPOLY	123	Giovanni Di Crescenzo	2012-01-12
+CS6913	Web Search Engines	ECS	Master	NYPOLY	123	Torsten Suel	2012-01-12
+CS6923	Machine Learning	ECS	Master	NYPOLY	123	Lisa Hellerstein	2012-01-12
+CS6963	Digital Forensics	ECS	Master	NYPOLY	123	Darren Hayes	2012-01-12
+CS9163	Application Security	ECS	Master	NYPOLY	123	Daniel Guido	2012-01-12
+FRE6003	Financial Accounting	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6023	Economic Foundations in Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6103	Corporate Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6123	Financial Risk Management and Asset Pricing	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6083	Quantitative Methods in Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6041	Risk Management in the Real World	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6091	Financial Econometrics, Credits	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6291	Options and Derivatives, Credits	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6411	Fixed Income Securities and Interest Rate Derivatives	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6711	Investment Theory & Practice, Credits	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6271	Valuation of Equity Securities and Financial Statement Analysis	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6041	Risk Management in the Real World	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6231	Stochastic Calculus & Financial Modeling	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6251	Numerical & Simulation Techniques in Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6311	Dynamic Assets and Options Pricing	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6331	Financial Risk Management and Optimization	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6351	Advanced Financial Econometrics	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6151	Foundations of Financial Technology	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6041	Risk Management in the Real World	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6131	Clearing and Settlement and Operational Risk	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6251	Numerical & Simulation Techniques in Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6451	Behaviorial Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6511	Derivatives Algorithms	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7211	Forensic Financial Technology and Regulatory Systems	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7221	Database & Financial Information Technology	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7241	Algorithmic Portfolio Management	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7251	Algorithmic Trading & High-Frequency Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7261	News Analytics & Strategies	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6051	Insurance Finance and Actuarial Science	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6491	Credit Risk & Credit Derivative	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6611	Credit Derivatives	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6671	Global Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6731	Basel 2 and Value At Risk	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6821	Financial Econometric Laboratory	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE5500	Bloomberg Certification	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6041	Risk Management in the Real World	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6231	Stochastic Calculus & Financial Modeling	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6351	Advanced Financial Econometrics	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7801	Topics in Finance and Financial Markets I	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6811	Financial Software Laboratory	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6821	Financial Econometric Laboratory	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6831	Computational Finance Laboratory	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6861	Financial Software Engineering Laboratory	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE5500	Bloomberg Certification	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7003	Financial Engineering Capstone: Thesis	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7023	Financial Engineering Capstone: Internship	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7043	Financial Engineering Capstone: Project	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6031	Money, Banking and Financial Markets	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6111	Investment Banking and Brokerage	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6131	Clearing and Settlement and Operational Risk	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6151	Foundations of Financial Technology	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6163	Life Contingencies II		EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6171	Management of Financial Institutions	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6191	Advanced Topics in Financial Technology	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6211	Financial Market Regulation	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6231	Stochastic Calculus & Financial Modeling	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6243	Credibility and Loss	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6251	Numerical & Simulation Techniques in Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6271	Valuation of Equity Securities and Financial Statement Analysis	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6291	Options and Derivatives	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6311	Dynamic Assets and Options Pricing	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6321	Casualty I		EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6331	Financial Risk Management and Optimization	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6341	Casualty II	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6351	Advanced Financial Econometrics	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6371	Contract Economics	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6391	Advanced Corporate Finance: Mergers and Acquisitions	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6411	Fixed Income Securities and Interest Rate Derivatives	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6451	Behaviorial Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6471	Applied Financial Econometrics	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6491	Credit Risk & Credit Derivative	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6513	Interm Deriv Valuat & Applic	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6551	Accounting For Financial Products	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6571	Asset-Backed Securities and Securitization	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6591	Real Estate Finance and Mortgage-Backed Securities	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6611	Credit Derivatives	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6631	Applied Derivatives and Real Options Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6651	Term Structure Modeling and Advanced Interest Rate Derivatives	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6671	Global Finance	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6691	Intermediate Credit Derivatives Valuation and Applications	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6711	Investment Theory & Practice	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6731	Basel 2 and Value At Risk	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6751	Credit Risk Measurement and Management	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6771	Financial Optimization Techniques	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6803	Financial Engineering (Research Course)	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE6911	Financial Regulation	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7103	Macroeconomics	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7801	Topics in Finance and Financial Markets I	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7811	Topics in Finance and Financial Markets 2	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7821	Topics in Actuarial Science I	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7831	Topics in Financial and Risk Engineering I	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7841	Topics in Actuarial Science II	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+FRE7851	Topics in Financial and Risk Engineering 2	EFRE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5373	Internet Architecture & Protocols Lab	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5473	Introduction to Vlsi System Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5613	Introduction to Electric Power Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6113	Signals, Systems and Transforms	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6253	Linear Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6303	Probability Theory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6413	Analog and High Frequency Amplifier Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6713	Electromagnetic Theory and Applications	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5013	Wireless Personal Communication Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5023	Wireless Information Systems Laboratory I	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5033	Wireless Information Systems Laboratory II	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5123	Image Processing	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5143	Multimedia Laboratory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5213	Introduction to Systems Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5223	Sensor Based Robotics	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5253	Applied Matrix Theory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5363	Principles of Communication Networks	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5463	Introduction to Rf/Microwave Integrated Circuits	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5483	Real Time Embedded Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5493	Advanced Hardware Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5513	Electro-Optics I	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5523	Electro-Optics II	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5533	Physics of Nanoelectronics	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5553	Physics of Quantum Computing	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5623	Finite Elements For Electrical Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5663	Physics of Alternative Energy	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5673	Electronic Power Supplies	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5683	Electric Drives Characteristics and Controls	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5713	Microwave Engineering Laboratory/Project	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5733	Rf and Microwave Systems Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5753	Introduction to Plasma Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5813	Biomedical Instrumentation	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5823	Medical Imaging I	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6013	Principles of Digital Communications: Modulation & Coding	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6023	Wireless Communications: Channel Modeling and Receiver Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6033	Modern Wireless Communication Techniques and Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6063	Information Theory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6073	Error Control Coding	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6123	Video Processing	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6183	Digital Signal Processing Laboratory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6213	System Modeling,analysis & Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6223	Nonlinear and Sampled-Data Control Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6233	System Optimization Method	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6243	System Theory and Feedback Control	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6313	Stochastic Processes	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6333	Detection and Estimation Theory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6373	Local and Metropolitan Area Networks	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6383	High-Speed Networks	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6393	Advanced Network Security	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6423	Rf Electronics For Wireless Applications	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6433	Digital Integrated Circuit Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6443	Vlsi System and Architecture Design	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6583	Fiber Optic Communications	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6603	Power Electronics	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6623	Power Systems Economics and Planning	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6633	Transients, Surges and Faults in Power Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6643	Relay Fault Protection	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6653	Power System Stability	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6663	Distributed Generation Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6683	Adjustable Speed Drives	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6723	Electromagnetic Radiation and Antennas	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6753	Uhf Propagation For Wireless Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL6823	Medical Imaging II, Credits: 3.00 / BE 6213 Biomedical Imaging II	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7023	Space-Time Wireless Communications	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7133	Digital Signal Processing	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7153	Array Signal Processing	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7163	Wavelet Transforms and Filter Banks	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7253	State Space Design For Linear Control Systems	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7353	Communication Networks I: Analysis, Modeling and Performance	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7363	Communications Networks II: Design and Algorithms	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL7373	High Performance Switches and Routers	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL8223	Applied Nonlinear Control	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL8233	Optimal Control Theory	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL8253	Large Scale Systems and Decentralized Contol	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9013	Selected Tpcs in Wireless Comm	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9113	Sel Top in Signal Processing	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9213	Sel Topcs Control Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9313	Sel Top: Telecom Network	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9413	Comp Elec Devices & System	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9513	Selected Topics in Quantum Electronics & Material Science	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9613	Selected Topics in Power Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9713	Sel Top Electrdymc/Wave/ Plasm	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9900	Seminar in Electrical and Computer Engineering	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9933	Readings in Electrical and Computer Engineering I	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9943	Readings in Electrical and Computer Engineering II	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9953	Advanced Projects I	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL9963	Advanced Projects II	EECE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6673	Quantum Mechanics I	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH9531	Graduate Seminar I	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH9541	Graduate Seminar II	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5343	Physical Basis of Nanotechnology	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5443	Physical Techniques and Application of Nanotechnology	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5473	Modern Optics	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5481	Modern Optics Lab	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5493	Physics of Nanoelectronics	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5553	Physics of Quantum Computing	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH5663	Physics of Alternative Energy	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6153	Theoretical Mechanics I	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6163	Theoretical Mechanics II	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6243	Electromagnetic Theory I	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6253	Electromagnetic Theory II	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6403	Physical Concepts of Polymer Nanocomposites	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6513	Introduction to Solid-State Physics I	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6523	Introduction to Solid-State Physics II	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6553	Advanced Quantum Computing	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6633	Statistical Mechanics I	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6643	Statistical Mechanics II	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6683	Quantum Mechancis II	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH8013	Selected Topics in Advanced Physics	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH8023	Selected Topics in Advanced Physics	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH9983	Thesis For Master of Science Degree in Physics	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH9993	Research in Physics	EAP	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE6013	Biotechnology and the Pharmaceutical Industry	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE6023	Biotechnology and Health Care	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE6033	Biosensors and Biochips	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE6043	Biocatalysis in Industry	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG7703	Entrepreneurship	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG6093	Accounting & Finance	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG7871	Introduction to Managing Intellectual Property	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG7873	Manging Intellectual Property & Intellectual Capital	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8203	Project Management	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8653	Managing Technological Change & Innovation	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8711	Intro to Entrepreneurial Finance	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8713	Entrepreneurial Finance	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8721	Introduction to Managing Growing Enterprises	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8731	Intro to Corporate Entrepreneurship	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8741	Introduction to Entrepreneurial Marketing & Sales	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG8743	Entrepreneurial Marketing & Sales	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+JW6003	Introduction to Technical Communication	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BT9433	Protein Engineering	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6703	Materials in Medicine	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7923	Natural Polymers and Materials	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8213	Bioanalytical Chemistry	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6013	Molecular Immunology	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9423	Biochemistry II	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6023	Cellular and Molecular Neuroscience	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BT7013	Special Topics in Biotechnology	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE9503	Project in Biotechnology and Entrepreneurship I	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE9513	Project in Biotechnology and Entrepreneurship II	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BTE9523	Project in Biotechnology and Entrepreneurship III	BAE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7043	Statistical Thermodynamics and Kinetics	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9033	Physical Organic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8023	Principles of Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8073	Organic Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM6013	Advanced Inorganic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9413	Biochemistry I	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7723	Synthesis of Macromolecules	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9731	Seminar in Chemistry I	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM5021	Information Sources For the Chemical Sciences	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9710	Chemical Colloquium	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM5040	Chemical Laboratory Safety	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8713	Guided Studies in Chemistry I	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM6013	Advanced Inorganic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM6153	Special Topics in Inorganic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7033	Quantum Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7043	Statistical Thermodynamics and Kinetics	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7103	Biophysical Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7503	Special Topics in Physical Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8023	Principles of Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7813	Characterization of Macromolecules	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9033	Physical Organic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9043	Synthetic Organic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9053	Enzyme Catalysis in Organic Synthesis	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9403	Special Topics in Organic Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8073	Organic Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7723	Synthesis of Macromolecules	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9423	Biochemistry II	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9433	Protein Engineering	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9443	Tissue Engineering	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9463	Recombinant Dna Technology	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9453	Special Topics in Biochemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7103	Biophysical Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8213	Bioanalytical Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8023	Principles of Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8073	Organic Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8103	Liquid Chromatography	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8123	Mass Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8213	Bioanalytical Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8303	Nuclear Magnetic Resonance Spectroscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8323	Microscopy	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM8503	Special Topics in Analytical Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7813	Characterization of Macromolecules	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7923	Natural Polymers and Materials	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM7853	Special Topics in Polymer Chemistry, Credits: 3.00CM 8713 Guided Studies in Chemistry I, Credits: 3.00
+CM8723	Guided Studies in Chemistry II	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9731	Seminar in Chemistry I	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9741	Seminar in Chemistry II	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM9751	Seminar in Chemistry III	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CM999X	Research in Chemistry	ECME	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6013	Molecular Immunology	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6103	Human Anatomy & Physiology I	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6113	Anatomy, Physiology, & Biophysics II	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+G23.2303	Intro to Biostatistics	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+G23.2030	Statistics in BiologyI	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6703	Materials in Medicine	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6753	Orthopaedic Biomechanics and Biomaterials	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9433	Protein Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9443	Tissue Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9730	Colloquium in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9740	Seminar in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6103	Human Anatomy & Physiology I	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6113	Anatomy, Physiology, & Biophysics II	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6203	Biomedical Imaging I	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6223	Image Processing	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6453	Probability Theory	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CBE6153	Applied Mathematics in Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6403	Signals Systems Transforms	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9730	Colloquium in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9740	Seminar in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6103	Human Anatomy & Physiology I	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6113	Anatomy, Physiology, & Biophysics II	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6303	Bio-Optics	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6453	Probability Theory	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6503	Biomedical Instrumentation	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CB6153	Applied Mathematics in Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6403	Signals Systems Transforms	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9730	Colloquium in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9740	Seminar in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6013	Molecular Immunology	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6023	Cellular and Molecular Neuroscience	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6203	Biomedical Imaging I	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6213	Biomedical Imaging II	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6223	Image Processing	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6303	Bio-Optics	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6403	Signals Systems Transforms	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6453	Probability Theory	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6483	Digital Signal Processing Laboratory	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6503	Biomedical Instrumentation	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6603	Drug Delivery	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6653	Principles of Chemical and Biochemical Systems	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6703	Materials in Medicine	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE6753	Orthopaedic Biomechanics and Biomaterials	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE8713	Guided Studies in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE8733	Guided Studies in Biomedical Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9433	Protein Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9443	Tissue Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BE9753	Bioethics Seminar	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CBE6153	Applied Mathematics in Engineering	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CS6643	Computer Vision and Scene Analysis	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EL5013	Wireless Personal Communication Systems	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MA6283	Mathematical Modeling in Biology	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+ME7863	Special Topics	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+PH6403	Physical Concepts of Polymer Nanocomposites	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+G23.2303	Intro to Biostatistics	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+G23.2030	Statistics in Biology	EBE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6023	Materials For Civil Engineers	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6073	Instrumentation, Monitoring and Condition Assessment of Civil Infrastructure	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7673	Environmental Impact Assessment	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7843	Introduction to Urban Systems Engineering	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8253	Project Management For Construction	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8283	Risk Analysis	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9963	Project For the Ms in Civil Engineering	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9976	Thesis for the MS in Civil Engineering	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8423	Ground Improvement	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8663	Advanced Foundation Design	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8673 	Excavation Support Systems	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8403	Geotechnics & Geomaterials	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8433	Urban Geotechnology	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8493	Environmental Geotechnology	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7233	Groundwater Hydrology and Pollution	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8603	Selected Topics in Geotechnical Engineering	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6013	Theory of Structural Analysis and Design	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6163	Finite Element Methods	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6033	Selected Topics in Structural Analysis I	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6043	Selected Topics in Structural Analysis II	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6063	Bridge Engineering	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6133	Stability of Structures	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6143	Steel Structures	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6183	Concrete Structures	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6193	Wind and Earthquake Engineering	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7983	Spec Top in Infra Syst & Construction I	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7993	Slctd Topic in Construction II	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8203	Project Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8243	Construction Modeling Techniques	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8253	Project Management For Construction	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8263	Construction Cost Estimating	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8273	Contracts and Specifications	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8283	Risk Analysis	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8293	Construction Operations Analysis	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8303	Information Systems in Project Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8313	Engineering For Construction I: Methods and Technologies	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8323	Engineering For Construction II: Design	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8333	Marketing For Construction Management and Engineering Services	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8343	Construction Site Safety	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8353	Construction Scheduling	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8363	Building Information Modeling Project Controls	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8373	Construction Accounting and Finance	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9933	Ms Project in Construction Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8703	Managing and Leading in the 21st Century	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8713	Construction and the Law	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8723	How to Succeed in Construction	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8733	Infrastructure Financing: Structuring of A Deal	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE875X	Employer Focused Residency	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8763	Capital Program Management / Program Development	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8773	Dispute Avoidance and Resolution	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8783	Construction Management and Planning	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8803	Infrastructure Planning For Public Works	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7223	Hydrology	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7233	Groundwater Hydrology and Pollution	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7373	Environmental Chemistry & Microbiology	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7423	Water & Wastewater Treatment	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7353	Selected Topics in Water Resources and Hydraulic Engineering I	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7393	Advanced Environmental Chemistry & Microbiology	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7433	Advanced Water & Wastewater Treatment	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7453	Water and Wastewater Treatment Laboratory	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7473	Analysis of Stream and Estuary Pollution	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7533	Hazardous/Toxic Waste Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7703	Solid Waste Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7753	Environmental Systems Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8493	Environmental Geotechnology	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6313	Traffic Control and Signalization I	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6323	Traffic Control and Signalization II	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6013	Fundamental Concepts in Transportation	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6023	Analytic Methods in Transportation	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6223	Intelligent Transportation Systems and Their Applications	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7033	Transportation Safety and Security	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7123	Transportation Planning and Congestion Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7323	Design of Parking & Terminal Facilities	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7333	Measure Theory I	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7343	Urban Freeways and Intercity Highways	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7813	Infrastructure Planning, Engineering and Economics	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7853	Concepts and Implementation of Infrastructure Management Systems	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6073	Instrumentation, Monitoring and Condition Assessment of Civil Infrastructure	ECVE	Master	NYPOLY	123	XXXXXXXX	2012-01-12
+CE7753	Environmental Systems Management	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8713	Construction and the Law	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8733	Infrastructure Financing: Structuring of A Deal	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6223	Intelligent Transportation Systems and Their Applications	ECVE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7983	Spec Top in Infra Syst & Construction I	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7993	Slctd Topic in Construction II	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8243	Construction Modeling Techniques	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8253	Project Management For Construction	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8263	Construction Cost Estimating	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8273	Contracts and Specifications	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8283	Risk Analysis	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8293	Construction Operations Analysis	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8303	Information Systems in Project Management	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8313	Engineering For Construction I: Methods and Technologies	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8323	Engineering For Construction II: Design	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8333	Marketing For Construction Management and Engineering Services	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8343	Construction Site Safety	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8353	Construction Scheduling	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8363	Building Information Medling Project Controls	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8373	Construction Accounting and Finance	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8203	Project Management	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+MG6013	Organizational Behavior	ECM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7373	Environmental Chemistry & Microbiology	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7423	Water & Wastewater Treatment	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7223	Hydrology	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7233	Groundwater Hydrology and Pollution	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7753	Environmental Systems Management	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7673	Environmental Impact Assessment	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7393	Advanced Environmental Chemistry & Microbiology	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7433	Advanced Water & Wastewater Treatment	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7473	Analysis of Stream and Estuary Pollution	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8493	Environmental Geotechnology	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7703	Solid Waste Management	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9996	Project	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9997	Master's Thesis	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7373	Environmental Chemistry & Microbiology	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7423	Water & Wastewater Treatment	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7223	Hydrology	EEE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+BIOL-GA1004	Environmental Health	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EHSC-GA1010	Weather, Air pollution and Health	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+EHSC-GA.1006	Toxicology	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7233	Groundwater Hydrology and Pollution	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7393	Advanced Environmental Chemistry & Microbiology	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7433	Advanced Water & Wastewater Treatment	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7473	Analysis of Stream and Estuary Pollution	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7673	Environmental Impact Assessment	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7703	Solid Waste Management	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7753	Environmental Systems Management	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7523	Air Pollution	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7553	Environmental Toxicology	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9963	Project For the Ms in Civil Engineering	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE9973	Thesis For Ms in Civil Engineering	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6013	Fundamental Concepts in Transportation	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6213	Transportation Economics and Finance	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6223	Intelligent Transportation Systems and Their Applications	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7223	Management of Transit Maintenance and Operations	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7133	Urban Public Transportation Systems	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7233	Transportation Management	EES	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6013	Fundamental Concepts in Transportation	ETRM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6213	Transportation Economics and Finance	ETRM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6223	Intelligent Transportation Systems and Their Applications	ETRM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7223	Management of Transit Maintenance and Operations	ETRM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7133	Urban Public Transportation Systems	ETRM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7233	Transportation Management	ETRM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6013	Fundamental Concepts in Transportation	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6113	Forecasting Urban Travel Demand	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6313	Traffic Control and Signalization I	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6323	Traffic Control and Signalization II	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6213	Transportation Economics and Finance	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6223	Intelligent Transportation Systems and Their Applications	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6023	Analytic Methods in Transportation	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7123	Transportation Planning and Congestion Management	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7133	Urban Public Transportation Systems	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7323	Design of Parking & Terminal Facilities	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7033	Transportation Safety and Security	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7233	Transportation Management	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7243	Intelligent Transportation Systems: Deployments and Technologies	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7343	Urban Freeways and Intercity Highways	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR8013	Selected Topics in Transportation I	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR8023	Selected Topics in Transportation II	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR900X	Readings in Transportation	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR9013	Thesis in Transportation	ETPE	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7223	Management of Transit Maintenance and Operations	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6223	Intelligent Transportation Systems and Their Applications	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7133	Urban Public Transportation Systems	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6133	Travel Demand Forecasting, Credits	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR7123	Transportation Planning and Congestion Management	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+TR6213	Transportation Economics and Finance	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8253	Project Management For Construction	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8713	Construction and the Law	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8723	How to Succeed in Construction	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8273	Contracts and Specifications	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8783	Construction Management and Planning	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8703	Managing and Leading in the 21st Century	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7753	Environmental Systems Management	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7533	Hazardous/Toxic Waste Management	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7563	Environmental Law	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7473	Analysis of Stream and Estuary Pollution	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7523	Air Pollution	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7543	Site Remediation	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE7863	Infrastructure Monitoring and Performance Assessment	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6063	Bridge Engineering	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8433	Urban Geotechnology	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE6143	Steel Structures	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8433	Urban Geotechnology	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12
+CE8493	Environmental Geotechnology	EUSEM	Master	NYPOLY	123	XXXXXXXXX	2012-01-12

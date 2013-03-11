@@ -1,0 +1,7 @@
+Brooklyn	New York	US
+Manhattan	New York	US
+Tucson	Arizona	US
+Phoenix	Arizona	US
+San Francisco	California	US
+San Diego	California	US
+Urumqi	Xinjiang	CN

@@ -1,0 +1,264 @@
+div.pagination {
+	padding: 3px;
+	margin: 3px;
+}
+
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #AAAADD;
+	text-decoration: none; /* no underline */
+	color: #000099;
+}
+div.pagination a:hover, div.pagination a:active {
+	border: 1px solid #000099;
+	color: #000;
+}
+div.pagination span.current {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #000099;
+	font-weight: bold;
+	background-color: #000099;
+	color: #FFF;
+}
+
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #EEE;	
+	color: #DDD;
+}
+
+div.transbox{
+	background-color:#ffffff;
+   	border:0px solid black;
+   	opacity:0.9;
+   	filter:alpha(opacity=80);
+}
+
+.divClass .deleteDiv:hover{
+ position: absolute;
+ top: 20px;
+ right: 20px;
+ cursor: pointer;
+ }
+
+*{ margin:0; padding:0;}
+#div{ width:2400px; position:relative;}
+#unif_input{
+	font-size:14px; 
+	font-weight:normal; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border:1px #999999 solid;
+}
+
+#tick{display:none}
+#cross{display:none}
+#tick_email{display:none}
+#cross_email{display:none}
+#box{ border:0px #ccc solid; width:645px; height:110px; overflow:hidden;margin:2px auto 0; position:relative;}
+#img,#img1{ list-style:none; width:1200px; float:left;}
+#img img,#img1 img{width:100px; float:left; margin-right:9px}
+#liimg { float:left;}
+#but{ width:600px; height:30px; margin:0 auto;}
+#a{ float:left;}
+#b{ float:right;}
+#but input{ }
+	
+a {cursor:pointer}
+A:LINK    {Color: White; Text-Decoration: none; }
+A:VISITED {Color: White; Text-Decoration: none}
+A:HOVER   {Color: #EEEEEE; cursor:pointer}
+A.one:link {color: black;}
+A.one:visited {color: black;}
+A.one:hover {color: #333333; text-decoration:underline}
+A.two {color: black;}
+A.two:link {color: black;}
+A.two:visited {color: #333333;}
+A.two:hover { color:#333333}
+A.three {color: <?php $_SESSION['hcolor'] ?>;}
+A.three:link {color: black;}
+A.three:visited {color: #333333;}
+A.three:hover { color:#333333}
+img {border:0px}
+A.three:hover {color: #333333; font-weight: bold; font-style:italic; text-decoration:underline}
+button { color:#050;   font: bold 84%'trebuchet ms',helvetica,sans-serif;   background-color: #fed; }
+button.button2 { color:#000000; padding-left:5px; display:inline; width:100px; font: bold 84%'trebuchet ms',helvetica,sans-serif; font-size:13px; background-color: #FFFFFF; border:0px }
+input.btn { color:#000000;   font: bold 84%'trebuchet ms',helvetica,sans-serif;   background-color: #fed; cursor:hand }  
+input.btn2 { color:#000000;   font: bold 50%; font-size:13px; height:22; background: url(img/master.jpg); -moz-border-radius: 3px; border-radius: 3px; border:1px solid #999999; cursor:pointer; padding: 2 5 2 5; }   
+input.btn2:hover { color:#000000;   font: bold 50%; font-size:13px; height:22; background: url(img/master.png); -moz-border-radius: 3px; border-radius: 3px; border:1px solid #999999; cursor:pointer; padding: 2 5 2 5; }  
+input.btn3 { color:#000000; height:25px; font: bold 84%'trebuchet ms',helvetica,sans-serif; margin-top:0px; background-color: #FFFFFF; cursor:hand  }  
+input.profile_btn { color:#FFFFFF; padding:3 8 3 8; font-size: 14px; font-family:Verdana, Arial, Helvetica, sans-serif; height:28; background-color: #666666; border: 0px; border-bottom:1px solid #CCCCCC; border-right:1px solid #CCCCCC; cursor:pointer }  
+input.blue_btn { color:#333333; padding:2 7 2 7; font-size: 12px; font-family:Verdana, Arial, Helvetica, sans-serif; height:23; background: url(img/blueBtnBg.jpg); border:0px #EEEEEE solid }  
+input.btnSlide { color:#050; font: bold 70%'trebuchet ms',helvetica,sans-serif;   background-color: #F5F5F5; border:1px #666666 solid; height:18px   
+input.btnlogin { color:#000000; font-family:Arial, Helvetica, sans-serif; width:80px; font-size:14px; font-weight:bold; height:25px; border:1px #999999 solid;  background-color: #EEEEEE; }  
+input.unif_input{
+	padding:3px;
+	font-size:18px;
+	border:1px #999999 solid;
+}
+input.box { border-style: solid; border-width: 1px; border: #999999 solid 1px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; padding-left: 0px; background-color: #FFFFFF; }
+input.box_login { border-style: solid; border-width: 1px; border: #999999 solid 1px; font-family: helvetica, arial, sans serif; padding-left: 0px; background-color: #FFFFFF; }
+.over { border-style: solid; border-width: 1px; border: #CCCCCC solid 1; font-size:14px; font-family: helvetica, arial, sans serif;padding-left: 0px; background-color: #FFFFFF; }
+.out { border-style: solid; border-width: 1px; border: #CCCCCC solid 1; font-size:14px; font-family: helvetica, arial, sans serif;padding-left: 0px; background-color: #FFFFFF; }
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url();
+	bgproperties: fixed
+}
+
+body,td,th {
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img { border:0px; }
+
+.STYLE6 {color: #000000}
+.STYLE7 {color: #CC6633}
+.STYLE9 {color: #339933}
+.STYLE11 {color: #000000; font-size: 13px; }
+
+textarea#styled {        
+width: 400px;        
+height: 120px;        
+border: 1px solid #CCCCCC;        
+padding: 5px;        
+font-family: Tahoma, sans-serif;        
+background-image: url(bg.gif);        
+background-position: bottom right;        
+background-repeat: no-repeat;
+}
+
+textarea {        
+font-size:13px; 
+font-family: Arial, Helvetica, sans-serif; 
+line-height:130%; 
+padding:4px;
+}
+
+<style>
+#goTopDiv a
+{
+	width:60px;
+    /* display: block before hiding */
+    display: block;
+    display: none;
+
+    /* link is above all other elements */
+    z-index: 999; 
+
+    /* link doesn't hide text behind it */
+    opacity: 0.5;
+	filter:alpha(opacity=70);
+    /* link stays at same place on page */
+    position: fixed;
+ 	_position:absolute;
+	_top:expression(eval(document.body.scrollTop+400));
+    _bottom:auto;
+	/* link goes at the bottom of the page */
+    /* top: 100%; */
+    /* margin-top: -80px; */ 
+	/* = height + preferred bottom margin */
+	bottom:10%;
+    /* link is centered */
+    right: 2%;
+    /* margin-left: -160px; */
+	/* = half of width */
+
+    /* round the corners (to your preference) */
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+
+    /* make it big and easy to see (size, style to preferences) */
+    line-height: 48px;
+    padding: 5 10 5 10;
+    background-color: #333333;
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+	cursor:pointer
+}
+</style>
+
+
+@font-face {
+    font-family: 'ADMUI3';
+    src: url('ADMUI3.fon') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DroidSerifItalic';
+    src: url('DroidSerif-Italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DroidSerifBold';
+    src: url('DroidSerif-Bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DroidSerifBoldItalic';
+    src: url('DroidSerif-BoldItalic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.outborder {
+	border-bottom: 2px solid #DDDDDD; 
+}
+.overborder {
+	border-bottom: 2px solid #FF9966; cursor:pointer
+}
+
+.outborder:hover {
+    border: 1px solid blue; cursor:pointer
+}
+
+.logOutDiv {
+    color:#333333
+}
+
+.logOutDiv:hover {
+    text-decoration: underline; color:<?php echo($_SESSION['hcolor']) ?>; cursor:pointer
+}
+
+div.orangeBtn {
+margin-top:25; 
+-moz-border-radius: 5px; 
+border-radius: 5px; 
+width:150px; 
+height:22px; 
+padding:5 0 5 0; 
+background:#FF9966; 
+border:1px solid #666666; 
+color:#FFFFFF; 
+cursor:pointer
+}
+
+#load{
+position:absolute;
+z-index:1;
+-moz-border-radius: 5px; 
+border-radius: 5px;
+border:12px solid #DDDDDD;
+background: #F5F5F5;
+color:#FFFFFF;
+width:250px;
+padding-top:15px;
+padding-bottom:15px;
+margin-top:-150px;
+margin-left:-150px;
+top:50%;
+left:50%;
+text-align:center;
+line-height:500px;
+font-family:"Trebuchet MS", verdana, arial,tahoma;
+font-size:14pt;
+}

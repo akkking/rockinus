@@ -1,0 +1,19 @@
+EAP	Applied Physics
+EBAE	Biotechnology and Entrepreneurship
+ECME	Chemistry 
+EBE	Biomedical Engineering
+EB	Biotechnology
+ECVE	Civil Engineering
+ECM	Construction Management
+EEE	Environmental Engineering
+EES	Environmental Science
+ETRM	Transportation Management
+ECS	Computer Science & Engineering
+EECE	Electrical and Computer Engineering 
+EFRE	Finance and Risk Engineering
+EM	Mathematics
+EMAE	Mechanical and Aerospace Engineering
+ETM	Technology Management
+ETCS	Technology, Culture and Society
+ETPE	Transportation Planning and Engineering
+EUSEM	Urban Systems Engineering and Management

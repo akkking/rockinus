@@ -1,0 +1,822 @@
+1	Van Cortlandt Park – 242nd Street	Bronx
+1	238th Street	Bronx
+1	231st Street	Bronx
+1	Marble Hill – 225th Street	Manhattan
+1	215th Street	Manhattan
+1	207th Street	Manhattan
+1	Dyckman Street	Manhattan
+1	191st Street	Manhattan
+1	181st Street	Manhattan
+1	168th Street	Manhattan
+1	157th Street	Manhattan
+1	145th Street	Manhattan
+1	137th Street – City College	Manhattan
+1	125th Street	Manhattan
+1	116th Street – Columbia University	Manhattan
+1	Cathedral Parkway – 110th Street	Manhattan
+1	103rd Street	Manhattan
+1	96th Street	Manhattan
+1	86th Street	Manhattan
+1	79th Street	Manhattan
+1	72nd Street	Manhattan
+1	66th Street – Lincoln Center	Manhattan
+1	59th Street – Columbus Circle	Manhattan
+1	50th Street	Manhattan
+1	Times Square – 42nd Street	Manhattan
+1	34th Street – Penn Station	Manhattan
+1	28th Street	Manhattan
+1	23rd Street	Manhattan
+1	18th Street	Manhattan
+1	14th Street	Manhattan
+1	Christopher Street – Sheridan Square	Manhattan
+1	Houston Street	Manhattan
+1	Canal Street	Manhattan
+1	Franklin Street	Manhattan
+1	Chambers Street	Manhattan
+1	Cortlandt Street	Manhattan
+1	Rector Street	Manhattan
+1	South Ferry	Manhattan
+2	Wakefield – 241st Street	Bronx
+2	Nereid Avenue	Bronx
+2	233rd Street	Bronx
+2	225th Street	Bronx
+2	219th Street	Bronx
+2	Gun Hill Road	Bronx
+2	Burke Avenue	Bronx
+2	Allerton Avenue	Bronx
+2	Pelham Parkway	Bronx
+2	Bronx Park East	Bronx
+2	East 180th Street	Bronx
+2	West Farms Square – East Tremont Avenue	Bronx
+2	174th Street	Bronx
+2	Freeman Street	Bronx
+2	Simpson Street	Bronx
+2	Intervale Avenue	Bronx
+2	Prospect Avenue	Bronx
+2	Jackson Avenue	Bronx
+2	Third Avenue – 149th Street	Bronx
+2	149th Street – Grand Concourse	Bronx
+2	135th Street	Manhattan
+2	125th Street	Manhattan
+2	116th Street	Manhattan
+2	Central Park North – 110th Street	Manhattan
+2	96th Street	Manhattan
+2	86th Street	Manhattan
+2	79th Street	Manhattan
+2	72nd Street	Manhattan
+2	66th Street – Lincoln Center	Manhattan
+2	59th Street – Columbus Circle	Manhattan
+2	50th Street	Manhattan
+2	Times Square – 42nd Street	Manhattan
+2	34th Street – Penn Station	Manhattan
+2	28th Street	Manhattan
+2	23rd Street	Manhattan
+2	18th Street	Manhattan
+2	14th Street	Manhattan
+2	Christopher Street – Sheridan Square	Manhattan
+2	Houston Street	Manhattan
+2	Canal Street	Manhattan
+2	Franklin Street	Manhattan
+2	Chambers Street	Manhattan
+2	Park Place	Manhattan
+2	Fulton Street	Manhattan
+2	Wall Street	Manhattan
+2	Clark Street	Brooklyn
+2	Borough Hall	Brooklyn
+2	Hoyt Street	Brooklyn
+2	Nevins Street	Brooklyn
+2	Atlantic Avenue	Brooklyn
+2	Bergen Street	Brooklyn
+2	Grand Army Plaza	Brooklyn
+2	Eastern Parkway – Brooklyn Museum	Brooklyn
+2	Franklin Avenue	Brooklyn
+2	President Street	Brooklyn
+2	Sterling Street	Brooklyn
+2	Winthrop Street	Brooklyn
+2	Church Avenue	Brooklyn
+2	Beverly Road	Brooklyn
+2	Newkirk Avenue	Brooklyn
+2	Flatbush Avenue – Brooklyn College	Brooklyn
+3	Harlem – 148th Street	Manhattan
+3	145th Street	Manhattan
+3	135th Street	Manhattan
+3	125th Street	Manhattan
+3	116th Street	Manhattan
+3	Central Park North – 110th Street	Manhattan
+3	96th Street	Manhattan
+3	72nd Street	Manhattan
+3	Times Square – 42nd Street	Manhattan
+3	34th Street – Penn Station	Manhattan
+3	14th Street	Manhattan
+3	Chambers Street	Manhattan
+3	Park Place	Manhattan
+3	Fulton Street	Manhattan
+3	Wall Street	Manhattan
+3	Clark Street	Brooklyn
+3	Borough Hall	Brooklyn
+3	Hoyt Street	Brooklyn
+3	Nevins Street	Brooklyn
+3	Atlantic Avenue	Brooklyn
+3	Bergen Street	Brooklyn
+3	Grand Army Plaza	Brooklyn
+3	Eastern Parkway – Brooklyn Museum	Brooklyn
+3	Franklin Avenue	Brooklyn
+3	Nostrand Avenue	Brooklyn
+3	Kingston Avenue	Brooklyn
+3	Crown Heights – Utica Avenue	Brooklyn
+3	Sutter Avenue – Rutland Road	Brooklyn
+3	Saratoga Avenue	Brooklyn
+3	Rockaway Avenue	Brooklyn
+3	Junius Street	Brooklyn
+3	Pennsylvania Avenue	Brooklyn
+3	Van Siclen Avenue	Brooklyn
+3	New Lots Avenue	Brooklyn
+4	Woodlawn	Bronx
+4	Mosholu Parkway	Bronx
+4	Bedford Park Boulevard – Lehman College	Bronx
+4	Kingsbridge Road	Bronx
+4	Fordham Road	Bronx
+4	183rd Street	Bronx
+4	Burnside Avenue	Bronx
+4	176th Street	Bronx
+4	Mount Eden Avenue	Bronx
+4	170th Street	Bronx
+4	167th Street	Bronx
+4	161st Street – Yankee Stadium	Bronx
+4	149th Street – Grand Concourse	Bronx
+4	138th Street – Grand Concourse	Bronx
+4	125th Street	Manhattan
+4	116th Street	Manhattan
+4	110th Street	Manhattan
+4	103rd Street	Manhattan
+4	96th Street	Manhattan
+4	86th Street	Manhattan
+4	77th Street	Manhattan
+4	68th Street – Hunter College	Manhattan
+4	59th Street	Manhattan
+4	51st Street	Manhattan
+4	Grand Central – 42nd Street	Manhattan
+4	33rd Street	Manhattan
+4	28th Street	Manhattan
+4	23rd Street	Manhattan
+4	14th Street – Union Square	Manhattan
+4	Astor Place	Manhattan
+4	Bleecker Street	Manhattan
+4	Spring Street	Manhattan
+4	Canal Street	Manhattan
+4	Brooklyn Bridge – City Hall	Manhattan
+4	Fulton Street	Manhattan
+4	Wall Street	Manhattan
+4	Bowling Green	Manhattan
+4	Borough Hall	Brooklyn
+4	Nevins Street	Brooklyn
+4	Atlantic Avenue	Brooklyn
+4	Bergen Street	Brooklyn
+4	Grand Army Plaza	Brooklyn
+4	Eastern Parkway – Brooklyn Museum	Brooklyn
+4	Franklin Avenue	Brooklyn
+4	Nostrand Avenue	Brooklyn
+4	Kingston Avenue	Brooklyn
+4	Crown Heights – Utica Avenue	Brooklyn
+5	Eastchester – Dyre Avenue	Bronx
+5	Baychester Avenue	Bronx
+5	Gun Hill Road	Bronx
+5	Pelham Parkway	Bronx
+5	Morris Park	Bronx
+5	Nereid Avenue	Bronx
+5	233rd Street	Bronx
+5	225th Street	Bronx
+5	219th Street	Bronx
+5	Gun Hill Road	Bronx
+5	Burke Avenue	Bronx
+5	Allerton Avenue	Bronx
+5	Pelham Parkway	Bronx
+5	Bronx Park East	Bronx
+5	East 180th Street	Bronx
+5	West Farms Square – East Tremont Avenue	Bronx
+5	174th Street	Bronx
+5	Freeman Street	Bronx
+5	Simpson Street	Bronx
+5	Intervale Avenue	Bronx
+5	Prospect Avenue	Bronx
+5	Jackson Avenue	Bronx
+5	Third Avenue – 149th Street	Bronx
+5	149th Street – Grand Concourse	Bronx
+5	138th Street – Grand Concourse	Bronx
+5	125th Street	Manhattan
+5	86th Street	Manhattan
+5	59th Street	Manhattan
+5	Grand Central – 42nd Street	Manhattan
+5	14th Street – Union Square	Manhattan
+5	Brooklyn Bridge – City Hall	Manhattan
+5	Fulton Street	Manhattan
+5	Wall Street	Manhattan
+5	Bowling Green	Manhattan
+5	Borough Hall	Brooklyn
+5	Nevins Street	Brooklyn
+5	Atlantic Avenue	Brooklyn
+5	Franklin Avenue	Brooklyn
+5	President Street	Brooklyn
+5	Sterling Street	Brooklyn
+5	Winthrop Street	Brooklyn
+5	Church Avenue	Brooklyn
+5	Beverly Road	Brooklyn
+5	Newkirk Avenue	Brooklyn
+5	Flatbush Avenue – Brooklyn College	Brooklyn
+5	Crown Heights – Utica Avenue	Brooklyn
+5	Sutter Avenue – Rutland Road	Brooklyn
+5	Saratoga Avenue	Brooklyn
+5	Rockaway Avenue	Brooklyn
+5	Junius Street	Brooklyn
+5	Pennsylvania Avenue	Brooklyn
+5	Van Siclen Avenue	Brooklyn
+5	New Lots Avenue	Brooklyn
+6	Pelham Bay Park	Bronx
+6	Buhre Avenue	Bronx
+6	Middletown Road	Bronx
+6	Westchester Square – East Tremont Avenue	Bronx
+6	Zerega Avenue	Bronx
+6	Castle Hill Avenue	Bronx
+6	Parkchester	Bronx
+6	St. Lawrence Avenue	Bronx
+6	Morrison Avenue – Soundview	Bronx
+6	Elder Avenue	Bronx
+6	Whitlock Avenue	Bronx
+6	Hunts Point Avenue	Bronx
+6	Longwood Avenue	Bronx
+6	East 149th Street	Bronx
+6	East 143rd Street – St. Mary's Street	Bronx
+6	Cypress Avenue	Bronx
+6	Brook Avenue	Bronx
+6	Third Avenue – 138th Street	Bronx
+6	125th Street	Manhattan
+6	116th Street	Manhattan
+6	110th Street	Manhattan
+6	103rd Street	Manhattan
+6	96th Street	Manhattan
+6	86th Street	Manhattan
+6	77th Street	Manhattan
+6	68th Street – Hunter College	Manhattan
+6	59th Street	Manhattan
+6	51st Street	Manhattan
+6	Grand Central – 42nd Street	Manhattan
+6	33rd Street	Manhattan
+6	28th Street	Manhattan
+6	23rd Street	Manhattan
+6	14th Street – Union Square	Manhattan
+6	Astor Place	Manhattan
+6	Bleecker Street	Manhattan
+6	Spring Street	Manhattan
+6	Canal Street	Manhattan
+6	Brooklyn Bridge – City Hall	Manhattan
+7	Flushing – Main Street	Queens
+7	Mets – Willets Point	Queens
+7	111th Street	Queens
+7	103rd Street – Corona Plaza	Queens
+7	Junction Boulevard	Queens
+7	90th Street – Elmhurst Avenue	Queens
+7	82nd Street – Jackson Heights	Queens
+7	74th Street – Broadway	Queens
+7	69th Street	Queens
+7	Woodside – 61st Street	Queens
+7	52nd Street	Queens
+7	46th Street – Bliss Street	Queens
+7	40th Street – Lowery Street	Queens
+7	33rd Street – Rawson Street	Queens
+7	Queensboro Plaza	Queens
+7	Court Square	Queens
+7	Hunters Point Avenue	Queens
+7	Vernon Boulevard – Jackson Avenue	Queens
+7	Grand Central	Manhattan
+7	Fifth Avenue – Bryant Park	Manhattan
+7	Times Square	Manhattan
+7	34th Street	Manhattan
+A	Inwood – 207th Street	Manhattan
+A	Dyckman Street	Manhattan
+A	190th Street	Manhattan
+A	181st Street	Manhattan
+A	175th Street	Manhattan
+A	168th Street	Manhattan
+A	163rd Street – Amsterdam Avenue	Manhattan
+A	155th Street	Manhattan
+A	145th Street	Manhattan
+A	135th Street	Manhattan
+A	125th Street	Manhattan
+A	116th Street	Manhattan
+A	Cathedral Parkway – 110th Street	Manhattan
+A	103rd Street	Manhattan
+A	96th Street	Manhattan
+A	86th Street	Manhattan
+A	81st Street – Museum of Natural History	Manhattan
+A	72nd Street	Manhattan
+A	59th Street – Columbus Circle	Manhattan
+A	50th Street	Manhattan
+A	42nd Street – Port Authority Bus Terminal	Manhattan
+A	34th Street – Penn Station	Manhattan
+A	23rd Street	Manhattan
+A	14th Street	Manhattan
+A	West Fourth Street – Washington Square	Manhattan
+A	Spring Street	Manhattan
+A	Canal Street	Manhattan
+A	Chambers Street	Manhattan
+A	Fulton Street	Manhattan
+A	High Street – Brooklyn Bridge	Brooklyn
+A	Jay Street – MetroTech	Brooklyn
+A	Hoyt–Schermerhorn Streets	Brooklyn
+A	Lafayette Avenue	Brooklyn
+A	Clinton–Washington Avenues	Brooklyn
+A	Franklin Avenue	Brooklyn
+A	Nostrand Avenue	Brooklyn
+A	Kingston–Throop Avenues	Brooklyn
+A	Utica Avenue	Brooklyn
+A	Ralph Avenue	Brooklyn
+A	Rockaway Avenue	Brooklyn
+A	Broadway Junction	Brooklyn
+A	Liberty Avenue	Brooklyn
+A	Van Siclen Avenue	Brooklyn
+A	Shepherd Avenue	Brooklyn
+A	Euclid Avenue	Brooklyn
+A	Grant Avenue	Brooklyn
+A	80th Street	Queens
+A	88th Street	Queens
+A	Rockaway Boulevard	Queens
+A	104th Street	Queens
+A	111th Street	Queens
+A	Ozone Park – Lefferts Boulevard	Queens
+A	Aqueduct Racetrack	Queens
+A	Aqueduct – North Conduit Avenue	Queens
+A	Howard Beach – JFK Airport	Queens
+A	Broad Channel	Queens
+A	Beach 67th Street	Queens
+A	Beach 60th Street	Queens
+A	Beach 44th Street	Queens
+A	Beach 36th Street	Queens
+A	Beach 25th Street	Queens
+A	Far Rockaway – Mott Avenue	Queens
+A	Beach 90th Street	Queens
+A	Beach 98th Street	Queens
+A	Beach 105th Street	Queens
+A	Rockaway Park – Beach 116th Street	Queens
+B	Bedford Park Boulevard	Bronx
+B	Kingsbridge Road	Bronx
+B	Fordham Road	Bronx
+B	182nd–183rd Streets	Bronx
+B	Tremont Avenue	Bronx
+B	174th–175th Streets	Bronx
+B	170th Street	Bronx
+B	167th Street	Bronx
+B	161st Street – Yankee Stadium	Bronx
+B	155th Street	Manhattan
+B	145th Street	Manhattan
+B	135th Street	Manhattan
+B	125th Street	Manhattan
+B	116th Street	Manhattan
+B	Cathedral Parkway – 110th Street	Manhattan
+B	103rd Street	Manhattan
+B	96th Street	Manhattan
+B	86th Street	Manhattan
+B	81st Street – Museum of Natural History	Manhattan
+B	72nd Street	Manhattan
+B	59th Street – Columbus Circle	Manhattan
+B	Seventh Avenue	Manhattan
+B	47th–50th Streets – Rockefeller Center	Manhattan
+B	42nd Street – Bryant Park	Manhattan
+B	34th Street – Herald Square	Manhattan
+B	West Fourth Street – Washington Square	Manhattan
+B	Broadway – Lafayette Street	Manhattan
+B	Grand Street	Manhattan
+B	DeKalb Avenue	Brooklyn
+B	Atlantic Avenue	Brooklyn
+B	Seventh Avenue	Brooklyn
+B	Prospect Park	Brooklyn
+B	Church Avenue	Brooklyn
+B	Newkirk Plaza	Brooklyn
+B	Kings Highway	Brooklyn
+B	Sheepshead Bay	Brooklyn
+B	Brighton Beach	Brooklyn
+C	168th Street	Manhattan
+C	163rd Street – Amsterdam Avenue	Manhattan
+C	155th Street	Manhattan
+C	145th Street	Manhattan
+C	135th Street	Manhattan
+C	125th Street	Manhattan
+C	116th Street	Manhattan
+C	Cathedral Parkway – 110th Street	Manhattan
+C	103rd Street	Manhattan
+C	96th Street	Manhattan
+C	86th Street	Manhattan
+C	81st Street – Museum of Natural History	Manhattan
+C	72nd Street	Manhattan
+C	59th Street – Columbus Circle	Manhattan
+C	50th Street	Manhattan
+C	42nd Street – Port Authority Bus Terminal	Manhattan
+C	34th Street – Penn Station	Manhattan
+C	23rd Street	Manhattan
+C	14th Street	Manhattan
+C	West Fourth Street – Washington Square	Manhattan
+C	Spring Street	Manhattan
+C	Canal Street	Manhattan
+C	Chambers Street	Manhattan
+C	Fulton Street	Manhattan
+C	High Street – Brooklyn Bridge	Brooklyn
+C	Jay Street – MetroTech	Brooklyn
+C	Hoyt–Schermerhorn Streets	Brooklyn
+C	Lafayette Avenue	Brooklyn
+C	Clinton–Washington Avenues	Brooklyn
+C	Franklin Avenue	Brooklyn
+C	Nostrand Avenue	Brooklyn
+C	Kingston–Throop Avenues	Brooklyn
+C	Utica Avenue	Brooklyn
+C	Ralph Avenue	Brooklyn
+C	Rockaway Avenue	Brooklyn
+C	Broadway Junction	Brooklyn
+C	Liberty Avenue	Brooklyn
+C	Van Siclen Avenue	Brooklyn
+C	Shepherd Avenue	Brooklyn
+C	Euclid Avenue	Brooklyn
+D	Norwood – 205th Street	Bronx
+D	Bedford Park Boulevard	Bronx
+D	Kingsbridge Road	Bronx
+D	Fordham Road	Bronx
+D	182nd–183rd Streets	Bronx
+D	Tremont Avenue	Bronx
+D	174th–175th Streets	Bronx
+D	170th Street	Bronx
+D	167th Street	Bronx
+D	161st Street – Yankee Stadium	Bronx
+D	155th Street	Manhattan
+D	145th Street	Manhattan
+D	125th Street	Manhattan
+D	59th Street – Columbus Circle	Manhattan
+D	Seventh Avenue	Manhattan
+D	47th–50th Streets – Rockefeller Center	Manhattan
+D	42nd Street – Bryant Park	Manhattan
+D	34th Street – Herald Square	Manhattan
+D	West Fourth Street – Washington Square	Manhattan
+D	Broadway – Lafayette Street	Manhattan
+D	Grand Street	Manhattan
+D	DeKalb Avenue	Brooklyn
+D	Atlantic Avenue – Pacific Street	Brooklyn
+D	Union Street	Brooklyn
+D	Ninth Street	Brooklyn
+D	Prospect Avenue	Brooklyn
+D	25th Street	Brooklyn
+D	36th Street	Brooklyn
+D	Ninth Avenue	Brooklyn
+D	Fort Hamilton Parkway	Brooklyn
+D	50th Street	Brooklyn
+D	55th Street	Brooklyn
+D	62nd Street	Brooklyn
+D	71st Street	Brooklyn
+D	79th Street	Brooklyn
+D	18th Avenue	Brooklyn
+D	20th Avenue	Brooklyn
+D	Bay Parkway	Brooklyn
+D	25th Avenue	Brooklyn
+D	Bay 50th Street	Brooklyn
+D	Coney Island – Stillwell Avenue	Brooklyn
+E	Jamaica – 179th Street	Queens
+E	Parsons Boulevard	Queens
+E	Jamaica Center – Parsons / Archer	Queens
+E	Sutphin Boulevard – Archer Avenue – JFK Airport	Queens
+E	Jamaica – Van Wyck	Queens
+E	Briarwood – Van Wyck Boulevard	Queens
+E	Kew Gardens – Union Turnpike	Queens
+E	75th Avenue	Queens
+E	Forest Hills – 71st Avenue	Queens
+E	67th Avenue	Queens
+E	63rd Drive – Rego Park	Queens
+E	Woodhaven Boulevard	Queens
+E	Grand Avenue – Newtown	Queens
+E	Elmhurst Avenue	Queens
+E	Jackson Heights – Roosevelt Avenue	Queens
+E	65th Street	Queens
+E	Northern Boulevard	Queens
+E	46th Street	Queens
+E	Steinway Street	Queens
+E	36th Street	Queens
+E	Queens Plaza	Queens
+E	Court Square – 23rd Street	Queens
+E	Lexington Avenue – 53rd Street	Manhattan
+E	Fifth Avenue / 53rd Street	Manhattan
+E	Seventh Avenue	Manhattan
+E	50th Street	Manhattan
+E	42nd Street – Port Authority Bus Terminal	Manhattan
+E	34th Street – Penn Station	Manhattan
+E	23rd Street	Manhattan
+E	14th Street	Manhattan
+E	West Fourth Street – Washington Square	Manhattan
+E	Spring Street	Manhattan
+E	Canal Street	Manhattan
+E	World Trade Center	Manhattan
+F	Jamaica – 179th Street	Queens
+F	169th Street	Queens
+F	Parsons Boulevard	Queens
+F	Sutphin Boulevard	Queens
+F	Briarwood – Van Wyck Boulevard	Queens
+F	Kew Gardens – Union Turnpike	Queens
+F	75th Avenue	Queens
+F	Forest Hills – 71st Avenue	Queens
+F	Jackson Heights – Roosevelt Avenue	Queens
+F	21st Street – Queensbridge	Queens
+F	Roosevelt Island	Manhattan
+F	Lexington Avenue – 63rd Street	Manhattan
+F	57th Street	Manhattan
+F	47th–50th Streets – Rockefeller Center	Manhattan
+F	42nd Street – Bryant Park	Manhattan
+F	34th Street – Herald Square	Manhattan
+F	23rd Street	Manhattan
+F	14th Street	Manhattan
+F	West Fourth Street – Washington Square	Manhattan
+F	Broadway – Lafayette Street	Manhattan
+F	Second Avenue	Manhattan
+F	Delancey Street	Manhattan
+F	East Broadway	Manhattan
+F	York Street	Brooklyn
+F	Jay Street – MetroTech	Brooklyn
+F	Bergen Street	Brooklyn
+F	Carroll Street	Brooklyn
+F	Smith–Ninth Streets	Brooklyn
+F	Fourth Avenue	Brooklyn
+F	Seventh Avenue	Brooklyn
+F	15th Street – Prospect Park	Brooklyn
+F	Fort Hamilton Parkway	Brooklyn
+F	Church Avenue	Brooklyn
+F	Ditmas Avenue	Brooklyn
+F	18th Avenue	Brooklyn
+F	Avenue I	Brooklyn
+F	Bay Parkway	Brooklyn
+F	Avenue N	Brooklyn
+F	Avenue P	Brooklyn
+F	Kings Highway	Brooklyn
+F	Avenue U	Brooklyn
+F	Avenue X	Brooklyn
+F	Neptune Avenue	Brooklyn
+F	West Eighth Street – New York Aquarium	Brooklyn
+F	Coney Island – Stillwell Avenue	Brooklyn
+M	Forest Hills – 71st Avenue	Queens
+M	67th Avenue	Queens
+M	63rd Drive – Rego Park	Queens
+M	Woodhaven Boulevard	Queens
+M	Grand Avenue – Newtown	Queens
+M	Elmhurst Avenue	Queens
+M	Jackson Heights – Roosevelt Avenue	Queens
+M	65th Street	Queens
+M	Northern Boulevard	Queens
+M	46th Street	Queens
+M	Steinway Street	Queens
+M	36th Street	Queens
+M	Queens Plaza	Queens
+M	Court Square – 23rd Street	Queens
+M	Lexington Avenue – 53rd Street	Manhattan
+M	Fifth Avenue / 53rd Street	Manhattan
+M	47th–50th Streets – Rockefeller Center	Manhattan
+M	42nd Street – Bryant Park	Manhattan
+M	34th Street – Herald Square	Manhattan
+M	23rd Street	Manhattan
+M	14th Street	Manhattan
+M	West Fourth Street – Washington Square	Manhattan
+M	Broadway – Lafayette Street	Manhattan
+M	Essex Street	Manhattan
+M	Marcy Avenue	Brooklyn
+M	Hewes Street	Brooklyn
+M	Lorimer Street	Brooklyn
+M	Flushing Avenue	Brooklyn
+M	Myrtle Avenue	Brooklyn
+M	Central Avenue	Brooklyn
+M	Knickerbocker Avenue	Brooklyn
+M	Myrtle–Wyckoff Avenues	Brooklyn
+M	Seneca Avenue	Queens
+M	Forest Avenue	Queens
+M	Fresh Pond Road	Queens
+M	Middle Village – Metropolitan Avenue	Queens
+G	Court Square	Queens
+G	21st Street	Queens
+G	Greenpoint Avenue	Brooklyn
+G	Nassau Avenue	Brooklyn
+G	Metropolitan Avenue	Brooklyn
+G	Broadway	Brooklyn
+G	Flushing Avenue	Brooklyn
+G	Myrtle–Willoughby Avenues	Brooklyn
+G	Bedford–Nostrand Avenues	Brooklyn
+G	Classon Avenue	Brooklyn
+G	Clinton–Washington Avenues	Brooklyn
+G	Fulton Street	Brooklyn
+G	Hoyt–Schermerhorn Streets	Brooklyn
+G	Bergen Street	Brooklyn
+G	Carroll Street	Brooklyn
+G	Smith–Ninth Streets	Brooklyn
+G	Fourth Avenue	Brooklyn
+G	Seventh Avenue	Brooklyn
+G	15th Street – Prospect Park	Brooklyn
+G	Fort Hamilton Parkway	Brooklyn
+G	Church Avenue	Brooklyn
+J	Jamaica Center – Parsons / Archer	Queens
+J	Sutphin Boulevard – Archer Avenue – JFK Airport	Queens
+J	121st Street	Queens
+J	111th Street	Queens
+J	104th Street	Queens
+J	Woodhaven Boulevard	Queens
+J	85th Street – Forest Parkway	Queens
+J	75th Street – Elderts Lane	Queens
+J	Cypress Hills	Brooklyn
+J	Crescent Street	Brooklyn
+J	Norwood Avenue	Brooklyn
+J	Cleveland Street	Brooklyn
+J	Van Siclen Avenue	Brooklyn
+J	Alabama Avenue	Brooklyn
+J	Broadway Junction	Brooklyn
+J	Chauncey Street	Brooklyn
+J	Halsey Street	Brooklyn
+J	Gates Avenue	Brooklyn
+J	Kosciuszko Street	Brooklyn
+J	Myrtle Avenue	Brooklyn
+J	Flushing Avenue	Brooklyn
+J	Lorimer Street	Brooklyn
+J	Hewes Street	Brooklyn
+J	Marcy Avenue	Brooklyn
+J	Essex Street	Manhattan
+J	Bowery	Manhattan
+J	Canal Street	Manhattan
+J	Chambers Street	Manhattan
+J	Fulton Street	Manhattan
+J	Broad Street	Manhattan
+Z	Jamaica Center – Parsons / Archer	Queens
+Z	Sutphin Boulevard – Archer Avenue – JFK Airport	Queens
+Z	121st Street	Queens
+Z	111th Street	Queens
+Z	104th Street	Queens
+Z	Woodhaven Boulevard	Queens
+Z	85th Street – Forest Parkway	Queens
+Z	75th Street – Elderts Lane	Queens
+Z	Cypress Hills	Manhattan
+Z	Crescent Street	Manhattan
+Z	Norwood Avenue	Manhattan
+Z	Cleveland Street	Manhattan
+Z	Van Siclen Avenue	Manhattan
+Z	Alabama Avenue	Manhattan
+Z	Broadway Junction	Manhattan
+Z	Chauncey Street	Manhattan
+Z	Halsey Street	Manhattan
+Z	Gates Avenue	Manhattan
+Z	Kosciuszko Street	Manhattan
+Z	Myrtle Avenue	Manhattan
+Z	Flushing Avenue	Manhattan
+Z	Lorimer Street	Manhattan
+Z	Hewes Street	Manhattan
+Z	Marcy Avenue	Manhattan
+Z	Essex Street	Brooklyn
+Z	Bowery	Brooklyn
+Z	Canal Street	Brooklyn
+Z	Chambers Street	Brooklyn
+Z	Fulton Street	Brooklyn
+Z	Broad Street	Brooklyn
+N	Astoria – Ditmars Boulevard	Queens
+N	Astoria Boulevard	Queens
+N	30th Avenue	Queens
+N	Broadway	Queens
+N	36th Avenue	Queens
+N	39th Avenue	Queens
+N	Queensboro Plaza	Queens
+N	Lexington Avenue / 59th Street	Manhattan
+N	Fifth Avenue / 59th Street	Manhattan
+N	57th Street – Seventh Avenue	Manhattan
+N	49th Street	Manhattan
+N	Times Square – 42nd Street	Manhattan
+N	34th Street – Herald Square	Manhattan
+N	28th Street	Manhattan
+N	23rd Street	Manhattan
+N	14th Street – Union Square	Manhattan
+N	Eighth Street – New York University	Manhattan
+N	Prince Street	Manhattan
+N	Canal Street	Manhattan
+N	City Hall	Manhattan
+N	Cortlandt Street	Manhattan
+N	Rector Street	Manhattan
+N	Whitehall Street – South Ferry	Manhattan
+N	Court Street	Brooklyn
+N	Jay Street – MetroTech	Brooklyn
+N	DeKalb Avenue	Brooklyn
+N	Atlantic Avenue – Pacific Street	Brooklyn
+N	Union Street	Brooklyn
+N	Ninth Street	Brooklyn
+N	Prospect Avenue	Brooklyn
+N	25th Street	Brooklyn
+N	36th Street	Brooklyn
+N	45th Street	Brooklyn
+N	53rd Street	Brooklyn
+N	59th Street	Brooklyn
+N	Eighth Avenue	Brooklyn
+N	Fort Hamilton Parkway	Brooklyn
+N	New Utrecht Avenue	Brooklyn
+N	18th Avenue	Brooklyn
+N	20th Avenue	Brooklyn
+N	Bay Parkway	Brooklyn
+N	Kings Highway	Brooklyn
+N	Avenue U	Brooklyn
+N	86th Street	Brooklyn
+N	Coney Island – Stillwell Avenue	Brooklyn
+Q	Astoria – Ditmars Boulevard	Queens
+Q	Astoria Boulevard	Queens
+Q	30th Avenue	Queens
+Q	Broadway	Queens
+Q	36th Avenue	Queens
+Q	39th Avenue	Queens
+Q	Queensboro Plaza	Queens
+Q	Lexington Avenue / 59th Street	Manhattan
+Q	Fifth Avenue / 59th Street	Manhattan
+Q	57th Street – Seventh Avenue	Manhattan
+Q	49th Street	Manhattan
+Q	Times Square – 42nd Street	Manhattan
+Q	34th Street – Herald Square	Manhattan
+Q	14th Street – Union Square	Manhattan
+Q	Canal Street	Manhattan
+Q	DeKalb Avenue	Brooklyn
+Q	Atlantic Avenue	Brooklyn
+Q	Seventh Avenue	Brooklyn
+Q	Prospect Park	Brooklyn
+Q	Parkside Avenue	Brooklyn
+Q	Church Avenue	Brooklyn
+Q	Beverley Road	Brooklyn
+Q	Cortelyou Road	Brooklyn
+Q	Newkirk Plaza	Brooklyn
+Q	Avenue H	Brooklyn
+Q	Avenue J	Brooklyn
+Q	Avenue M	Brooklyn
+Q	Kings Highway	Brooklyn
+Q	Avenue U	Brooklyn
+Q	Neck Road	Brooklyn
+Q	Sheepshead Bay	Brooklyn
+Q	Brighton Beach	Brooklyn
+Q	Ocean Parkway	Brooklyn
+Q	West Eighth Street – New York Aquarium	Brooklyn
+Q	Coney Island – Stillwell Avenue	Brooklyn
+R	Forest Hills – 71st Avenue	Queens
+R	67th Avenue	Queens
+R	63rd Drive – Rego Park	Queens
+R	Woodhaven Boulevard	Queens
+R	Grand Avenue – Newtown	Queens
+R	Elmhurst Avenue	Queens
+R	Jackson Heights – Roosevelt Avenue	Queens
+R	65th Street	Queens
+R	Northern Boulevard	Queens
+R	46th Street	Queens
+R	Steinway Street	Queens
+R	36th Street	Queens
+R	Queens Plaza	Queens
+R	Lexington Avenue / 59th Street	Manhattan
+R	Fifth Avenue / 59th Street	Manhattan
+R	57th Street – Seventh Avenue	Manhattan
+R	49th Street	Manhattan
+R	Times Square – 42nd Street	Manhattan
+R	34th Street – Herald Square	Manhattan
+R	28th Street	Manhattan
+R	23rd Street	Manhattan
+R	14th Street – Union Square	Manhattan
+R	Eighth Street – New York University	Manhattan
+R	Prince Street	Manhattan
+R	Canal Street	Manhattan
+R	City Hall	Manhattan
+R	Cortlandt Street	Manhattan
+R	Rector Street	Manhattan
+R	Whitehall Street – South Ferry	Manhattan
+R	Court Street	Brooklyn
+R	Jay Street – MetroTech	Brooklyn
+R	DeKalb Avenue	Brooklyn
+R	Atlantic Avenue – Pacific Street	Brooklyn
+R	Union Street	Brooklyn
+R	Ninth Street	Brooklyn
+R	Prospect Avenue	Brooklyn
+R	25th Street	Brooklyn
+R	36th Street	Brooklyn
+R	45th Street	Brooklyn
+R	53rd Street	Brooklyn
+R	59th Street	Brooklyn
+R	Bay Ridge Avenue	Brooklyn
+R	77th Street	Brooklyn
+R	86th Street	Brooklyn
+R	Bay Ridge – 95th Street	Brooklyn
+L	Eighth Avenue	Manhattan
+L	Sixth Avenue	Manhattan
+L	Union Square	Manhattan
+L	Third Avenue	Manhattan
+L	First Avenue	Manhattan
+L	Bedford Avenue	Brooklyn
+L	Lorimer Street	Brooklyn
+L	Graham Avenue	Brooklyn
+L	Grand Street	Brooklyn
+L	Montrose Avenue	Brooklyn
+L	Morgan Avenue	Brooklyn
+L	Jefferson Street	Brooklyn
+L	DeKalb Avenue	Brooklyn
+L	Myrtle–Wyckoff Avenues	Brooklyn
+L	Halsey Street	Brooklyn
+L	Wilson Avenue	Brooklyn
+L	Bushwick Avenue – Aberdeen Street	Brooklyn
+L	Broadway Junction	Brooklyn
+L	Atlantic Avenue	Brooklyn
+L	Sutter Avenue	Brooklyn
+L	Livonia Avenue	Brooklyn
+L	New Lots Avenue	Brooklyn
+L	East 105th Street	Brooklyn
+L	Canarsie – Rockaway Parkway	Brooklyn

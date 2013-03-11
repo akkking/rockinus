@@ -1,0 +1,168 @@
+<html>
+<head>
+<!--Load the jquery lib -->
+
+<script type="text/javascript" src="js/jquery-1.7.1.js"></script>
+
+<style type="text/css">  
+  /*this is what we want the div to look like*/  
+div.chatBox{
+  display:block;    
+  display:none;
+  position:absolute;    
+  bottom:0;
+  right:0;    
+  width:350px;
+  height:50px;
+  background:#eee;    
+  border:1px solid #999999;  
+  border-bottom:0px;
+  border-right:0px;
+  padding:0px;
+  font-size:14px;
+  padding-bottom:0px;
+  font-family:"arial,sans-serif";
+}
+
+div.chatBar{
+  display:block;    
+  display:none;
+  position:absolute;    
+  bottom:0;
+  right:0;    
+  width:350px;
+  height:50px;
+  background:#eee;    
+  border:1px solid #999999;  
+  border-bottom:0px;
+  border-right:0px;
+  padding:0px;
+  font-size:14px;
+}
+
+div.asisform{
+  margin-top:0;
+  margin-bottom:0;
+  padding-left:10;
+  padding-bottom: 0px;
+}
+
+p{
+  margin-bottom:10px;
+  font-weight: bold;
+  color: #415FA4;
+  font-size:16px;
+}
+
+hr{     
+  background-color: #CCCCCC;     
+  border: #CCCCCC 0px dashed;     
+  color: #eee;     
+  height: 0px; 
+  margin-bottom:0px
+}
+
+textarea {
+  width:300px;
+  height:100px;
+  white-space:nowrap;
+  overflow:scroll;
+  overflow-y:hidden;     
+  overflow-x:hidden;     
+  overflow:-moz-scrollbars-horizontal; 
+  border: 2px #DDDDDD solid
+} 
+
+table{
+  background-color:#DDDDDD;
+  height: 25px;
+  border-bottom:1px #999999 dashed;
+  padding: 10px;
+  margin-bottom:0px
+}
+
+td{
+  font-weight: bold;
+  font-family:"arial,sans-serif";
+  height: 25px;
+}
+
+.sendbtn{
+  margin-top:10px;
+  margin-bottom:0px;
+  font-size:12px;
+  background-color: #FFF;
+  border: 1px #999999 solid;
+  height: 20px
+}
+</style>
+</head>
+
+<body>
+<!--Use jquery -->
+<script type="text/javascript">
+$(function(){
+   
+    $("#fadeinchat").click(function(){
+        $("#chatBox").fadeIn("slow");
+	$("#chatBar").fadeOut("fast");
+        
+    });
+ 
+    $("#fadeoutchat").click(function(){
+        $("#chatBox").fadeOut("fast");
+        
+    });   
+
+    $("#minichat").click(function(){
+        $("#chatBox").fadeOut("fast");
+	$("#chatBar").fadeIn("fast");        
+    }); 
+
+    $("#maxchat").click(function(){
+        $("#chatBar").fadeOut("fast");
+	$("#chatBox").fadeIn("fast");        
+    }); 
+});
+
+</script>
+<div id="fadeinchat" onmouseover="this.style.cursor='hand';"><u>Help?</u></div>
+<div class="chatBox" id="chatBox">
+<table style="width:100%">
+<tr><td valign="middle" style="padding-top:8px; padding-left:10px">
+<p class="para">DEP Real Time Training Assistant</p>
+</td>
+<td valign="middle" align="right"><div id="minichat" onmouseover="this.style.cursor='hand';">
+<img src="img/dashbtn.jpg"></div>
+<td>
+<td valign="middle" align="right"><div id="fadeoutchat" onmouseover="this.style.cursor='hand';">
+<img src="img/cancelbtn.jpg"></div>
+<td>
+</tr>
+</table>
+<hr />
+<div class="asisform">
+<strong>Assistant :</strong> How can I help you?
+<form>
+<textarea>
+</textarea>
+<input type="submit" value=" Send " class="sendbtn">
+</form>
+</div>
+</div>
+
+<div class="chatBar" id="chatBar">
+<table style="width:100%">
+<tr><td valign="middle" style="padding-top:8px; padding-left:10px">
+<p class="para">DEP Real Time Training Assistant</p>
+</td>
+<td valign="middle" align="right">
+<div id="maxchat" onmouseover="this.style.cursor='hand'; "><img src="img/zoombtn.jpg"></div>
+<td></tr>
+</table>
+</div>
+
+</body>
+</html>
+		
+		

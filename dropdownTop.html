@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>JavaScript Dropdown Menu Demo</title>
+<link rel="stylesheet" href="dropdownTop.css" type="text/css" />
+<script type="text/javascript" src="dropdownTop.js"></script>
+</head>
+<body>
+
+<dl class="dropdownTop">
+  <dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)">Dropdown One</dt>
+  <dd id="one-ddcontent" onmouseover="cancelHide('one')" onmouseout="ddMenu('one',-1)">
+    <ul>
+      <li><a href="#" class="underline">Navigation Item 1</a></li>
+      <li><a href="#">Navigation Item 2</a></li>
+    </ul>
+  </dd>
+</dl>
+
+</body>
+</html>
