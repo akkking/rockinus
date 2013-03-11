@@ -22,4 +22,4 @@ Short writing to new people,
 Under the thunder and storm, there is a place like home that keeps us warm and cool. Before coming to university study in United States, many of us, with a simple American dream shaped in our minds.The unknown tomorrow, full of doubtness, thorns, estranged environments with a whole lost, all putting together baffled our march again and again. We stay alert, know that we are young, and we keep replenishing ourselves, do what we can. Those different desires in our studies, work, lives combined with all tricky situations had determined us a disparate one. We sometimes may have been deviated. Today, standing at the point, just keep rocking to summit, cause this time would be more enjoyable and expecting. Rockinus dedicates your study and social life in many aspects, boosting your life as much as it could.
 We look forward to see your days turning great, being considered more carefully, and that is exactly why we are here. As said, you only live once, but if you do it right, once is enough. Do, rock in U.S.
 
-Rockinus Team | In God's Country | More to: admin@rockinus.com
+Rockinus Team | In God's Country | More to: superbarmuya@gmail.com
